@@ -1,2 +1,2 @@
 # project-demo
-my new project 
+my new project .
